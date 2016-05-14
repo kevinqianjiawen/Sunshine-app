@@ -8,4 +8,15 @@
     <string name="action_refresh" translatable="false">Refresh</string>
     <string name="title_activity_detail">DetailActivity</string>
     <string name="settings">Settings</string>
+
+    //perferencescreen
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">94043</string>
+
+    //listPerference
+    <string name ="pref_temp_label">Temperature Units</string>
+    <string name="pref_temp_key" translatable="true">temperature</string>
+    <string name="pref_temp_default" translatable="false"></string>
+
 </resources>
