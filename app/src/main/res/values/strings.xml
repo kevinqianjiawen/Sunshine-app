@@ -15,8 +15,12 @@
     <string name="pref_location_default" translatable="false">94043</string>
 
     //listPerference
-    <string name ="pref_temp_label">Temperature Units</string>
-    <string name="pref_temp_key" translatable="true">temperature</string>
-    <string name="pref_temp_default" translatable="false"></string>
+    <string name ="pref_units_label">Temperature Units</string>
+    <string name="pref_units_key" translatable="true">units</string>
+    <string name="pref_units_label_metric" translatable="false">Metric</string>
+    <string name="pref_units_label_imperial" translatable="false">Imperial</string>
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+
 
 </resources>
