@@ -42,3 +42,4 @@ project.properties
 .gradle
 build/
 app/src/main/java/com/example/android/sunshine/ForecastFragment.java
+app/src/main/java/com/example/android/sunshine/app/ForecastFragment.java
